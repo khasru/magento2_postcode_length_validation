@@ -105,4 +105,4 @@ Finally i added to translation into de_CH.csv file.
   [1]: https://i.stack.imgur.com/Oqac4.png
 
 
-  **stackexchange**: https://magento.stackexchange.com/posts/371372/edit 
+  **stackexchange**: https://magento.stackexchange.com/questions/371371/magento2-postcode-zipcode-length-validation-and-remove-waring-complete-guide
